@@ -1,4 +1,4 @@
-// Algoritmo que simula la interceptación y explosion
+// Algoritmo en C++ que simula la interceptación y explosion
 // de un meteorito que se dirige a la tierra.
 
 // Todos los datos son guardados en un archivo que se crea automaticamente 
